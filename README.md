@@ -1,6 +1,6 @@
 ## Olá, eu sou a Lívia Vilhena 👋
 
-- 🌱 Estudando JavaScript em back end (node.js)
+- 🌱 Estudando JavaScript em back end (node.js), C/C++ e Python
 - 📫 Contate-me no email : liviavilhena@outlook.com
 - 😄 Pronouns: ela/dela
 
