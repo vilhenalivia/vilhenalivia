@@ -2,7 +2,7 @@
 
 - 🌱 Estudando JavaScript em back end (node.js), C/C++ e Python
 - 📫 Contate-me no email : liviavilhena@outlook.com
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
